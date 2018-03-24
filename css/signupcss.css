@@ -1,0 +1,10 @@
+body
+{
+	background-color: rgb(179, 189, 204);
+}
+.jumbotron
+{
+	width:400px;
+	height:600px;
+	background-color: rgb(83, 125, 193);
+}
