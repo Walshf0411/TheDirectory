@@ -22,6 +22,7 @@
 	</style>
 	<div align="left">
 		<ul>
+			<li><a href="listContacts.php" style="text-decoration:none"><h4 class="Display-6">All Contacts <h4></a></li>
 			<li><a href="addcontact.php" style="text-decoration:none"><h4 class="Display-6">Add Contact<h4></a></li>
 			<li><a href="deletecontact.php" style="text-decoration:none"><h4 class="Display-6">Delete Contact<h4></a></li>
 			<li><a href="updatecontact.php" style="text-decoration:none"><h4 class="Display-6">Update Contact<h4></a></li>
